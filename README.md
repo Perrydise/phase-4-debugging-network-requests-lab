@@ -62,12 +62,18 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: Checked the status code
+  saw it was an internal 500
+  went back to my terminal and saw the error was in the name of the method create 
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: clicked on the button
+  saw error was not proper syntax
+  tried to render the json in backend since front end was also recieving it
+  worked!
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  
